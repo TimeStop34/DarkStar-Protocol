@@ -1,4 +1,4 @@
-# 🌌 DarkStar Protocol
+# 💫 DarkStar Protocol
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 [![Specification](https://img.shields.io/badge/spec-v1.1-green)](SPECIFICATION.md)
